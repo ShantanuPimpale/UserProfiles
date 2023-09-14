@@ -1,0 +1,96 @@
+{
+    "users": [
+      {
+        "name": "Emma Johnson",
+        "age": 29,
+        "location": "Los Angeles, CA",
+        "occupation": "Marketing Manager",
+        "description": "Emma is a marketing whiz with a passion for creating captivating ad campaigns. In her free time, she enjoys hiking and trying out new coffee shops.",
+        "imgUrl":"https://cdn.vectorstock.com/i/preview-1x/77/30/default-avatar-profile-icon-grey-photo-placeholder-vector-17317730.jpg",
+        "latitude":"34.0549° N",
+        "longitude":"118.2426° W"
+      },
+      {
+        "name": "Liam Wilson",
+        "age": 35, 
+        "location": "New York City, NY",
+        "occupation": "Software Developer",
+        "description": "Liam is a software developer who loves building innovative web applications. He's also an avid gamer and enjoys playing video games in his spare time.",
+        "imgUrl":"https://cdn.vectorstock.com/i/preview-1x/77/30/default-avatar-profile-icon-grey-photo-placeholder-vector-17317730.jpg",
+        "latitude":"40.7128° N",
+        "longitude":" 74.0060° W"
+      },
+      {
+        "name": "Olivia Smith",
+        "age": 27,
+        "location": "Chicago, IL",
+        "occupation": "Graphic Designer",
+        "description": "Olivia is a talented graphic designer who specializes in creating stunning visual identities. She's a nature enthusiast and enjoys photography.",
+        "imgUrl":"https://cdn.vectorstock.com/i/preview-1x/77/30/default-avatar-profile-icon-grey-photo-placeholder-vector-17317730.jpg",
+        "latitude":"41.8781° N",
+        "longitude":"87.6298° W"
+      },
+      {
+        "name": "Noah Brown",
+        "age": 31,
+        "location": "San Francisco, CA",
+        "occupation": "Data Scientist",
+        "description": "Noah is a data scientist who's passionate about analyzing large datasets to uncover insights. He's also a foodie and enjoys exploring local cuisines.",
+        "imgUrl":"https://cdn.vectorstock.com/i/preview-1x/77/30/default-avatar-profile-icon-grey-photo-placeholder-vector-17317730.jpg",
+        "latitude":"37.7749° N",
+        "longitude":"122.4194° W"
+      },
+      {
+        "name": "Ava Davis",
+        "age": 24,
+        "location": "Austin, TX",
+        "occupation": "Teacher",
+        "description": "Ava is a dedicated teacher who loves educating young minds. She enjoys outdoor activities like hiking and camping on weekends.",
+        "imgUrl":"https://cdn.vectorstock.com/i/preview-1x/77/30/default-avatar-profile-icon-grey-photo-placeholder-vector-17317730.jpg",
+        "latitude":"30.2672° N",
+        "longitude":"97.7431°"
+      },
+      {
+        "name": "Lucas Martinez",
+        "age": 28,
+        "location": "Miami, FL",
+        "occupation": "Event Planner",
+        "description": "Lucas is an event planning expert who enjoys creating memorable experiences for clients. He's a music enthusiast and plays the piano.",
+        "imgUrl":"https://cdn.vectorstock.com/i/preview-1x/77/30/default-avatar-profile-icon-grey-photo-placeholder-vector-17317730.jpg",
+        "latitude":"25.7617° N",
+        "longitude":"80.1918 W°"
+        
+      },
+      {
+        "name": "Mia Wilson",
+        "age": 33,
+        "location": "Seattle, WA",
+        "occupation": "Environmental Activist",
+        "description": "Mia is an environmental activist committed to preserving the planet. She's also an artist and enjoys painting landscapes.",
+        "imgUrl":"https://cdn.vectorstock.com/i/preview-1x/77/30/default-avatar-profile-icon-grey-photo-placeholder-vector-17317730.jpg",
+        "latitude":"47.6061° N",
+        "longitude":"122.3328° W"
+      },
+      {
+        "name": "Oliver Johnson",
+        "age": 26,
+        "location": "Boston, MA",
+        "occupation": "Nurse",
+        "description": "Oliver is a compassionate nurse who cares deeply for his patients. He's a bookworm and enjoys reading medical literature.",
+        "imgUrl":"https://cdn.vectorstock.com/i/preview-1x/77/30/default-avatar-profile-icon-grey-photo-placeholder-vector-17317730.jpg",
+        "latitude":"42.3601° N",
+        "longitude":"71.0589° W"
+      },
+      {
+        "name": "Sophia Clark",
+        "age": 30,
+        "location": "Denver, CO",
+        "occupation": "Architect",
+        "description": "Sophia is an architect who's passionate about sustainable design. She's an outdoor enthusiast and loves hiking in the Rocky Mountains.",
+        "imgUrl":"https://cdn.vectorstock.com/i/preview-1x/77/30/default-avatar-profile-icon-grey-photo-placeholder-vector-17317730.jpg",
+        "latitude":"39.7392° N",
+        "longitude":"104.9903° W"
+      }
+    ]
+  }
+  
